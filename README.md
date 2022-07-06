@@ -1,4 +1,4 @@
-# fastify-reqid
+# fastify-typeorm-query-runner-plugin
 
 ![CI](https://github.com/BlackHole1/fastify-typeorm-query-runner-plugin/workflows/CI/badge.svg)
 [![NPM version](https://img.shields.io/npm/v/fastify-typeorm-query-runner-plugin.svg?style=flat)](https://www.npmjs.com/package/fastify-typeorm-query-runner-plugin)
