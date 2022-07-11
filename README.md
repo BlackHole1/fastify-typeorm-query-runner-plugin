@@ -6,6 +6,9 @@
 [![NPM size](https://img.shields.io/bundlephobia/min/fastify-typeorm-query-runner-plugin)](https://www.npmjs.com/package/fastify-typeorm-query-runner-plugin)
 [![Coverage Status](https://coveralls.io/repos/github/BlackHole1/fastify-typeorm-query-runner-plugin/badge.svg?branch=main)](https://coveralls.io/github/BlackHole1/fastify-typeorm-query-runner-plugin?branch=main)
 
+> **Warning**  
+> Move to: [fastify-userland/typeorm-query-runner](https://github.com/fastify-userland/typeorm-query-runner)
+
 A plugin for Fastify that adds support for `typrorm QueryRunner and Transaction`.
 
 Supports Fastify versions 4.x.
